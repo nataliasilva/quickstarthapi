@@ -1,0 +1,19 @@
+{
+  "name": "cursohappy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliasilva/quickstarthappy.git"
+  },
+  "author": "Itor Isaias <itor.isaias@gmail.com> (https://itorisaias.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nataliasilva/quickstarthappy/issues"
+  },
+  "homepage": "https://github.com/nataliasilva/quickstarthappy#readme"
+}
