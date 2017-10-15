@@ -21,6 +21,7 @@
     "hapi": "^16.6.2",
     "hapi-router": "^3.5.0",
     "joi": "^11.4.0",
+    "jsonwebtoken": "^8.1.0",
     "lowdb": "^1.0.0"
   },
   "devDependencies": {
